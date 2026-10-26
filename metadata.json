@@ -1,0 +1,6 @@
+{
+  "name": "SafeFrame AI",
+  "description": "Preserve the Evidence. Understand the Incident. CCTV incident evidence vault, SHA-256 integrity verification, and AI forensic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
